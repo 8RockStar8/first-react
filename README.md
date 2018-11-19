@@ -1,2 +1,2 @@
 # first-react
-react-example
+react-example with create-react-app
